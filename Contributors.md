@@ -38,6 +38,7 @@
 - [Estelle Chevallier](https://github.com/estellechvl)
 - Milana Marshall.
 - Andrew Usvat
+- Abhinav Tripathi (https://github.com/ABHINAV0307)
 - Nick Henderson
 - [David Knight] (https://github.com/davidknight00)
 - Nathan Kandekore
